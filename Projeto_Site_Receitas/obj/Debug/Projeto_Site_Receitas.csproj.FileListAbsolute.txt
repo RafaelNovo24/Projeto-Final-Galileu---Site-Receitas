@@ -1,0 +1,37 @@
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\Projeto_Site_Receitas.exe.config
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\Projeto_Site_Receitas.exe
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\Projeto_Site_Receitas.pdb
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.exe
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.pdb
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Ingredientes_Editar.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Ingrefientes_GerirTodos.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Menu_Inicial.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.ReceitasPendentes.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.ReceitasAprovadas.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Comentarios_Receita.resources
+C:\Users\Rafael\Desktop\Code Developer\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Comentarios_Todos.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\Projeto_Site_Receitas.exe.config
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\Projeto_Site_Receitas.exe
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\Projeto_Site_Receitas.pdb
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Comentarios_Receita.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Comentarios_Todos.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Ingredientes_Editar.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Ingrefientes_GerirTodos.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Menu_Inicial.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.ReceitasAprovadas.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.ReceitasPendentes.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.exe
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.pdb
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\DAL_Receitas.dll
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\DAL_Receitas.pdb
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\bin\Debug\DAL_Receitas.dll.config
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.csproj.CopyComplete
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\Projeto_Site_Receitas\obj\Debug\Projeto_Site_Receitas.Forms.Users.resources

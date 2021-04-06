@@ -1,0 +1,7 @@
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\obj\Debug\DAL_Receitas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\bin\Debug\DAL_Receitas.dll.config
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\bin\Debug\DAL_Receitas.dll
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\bin\Debug\DAL_Receitas.pdb
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\obj\Debug\DAL_Receitas.dll
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\obj\Debug\DAL_Receitas.pdb
+C:\Users\Rafael\Desktop\Projeto\Projeto_Site_Receitas\DAL_Receitas\obj\Debug\DAL_Receitas.csprojAssemblyReference.cache
